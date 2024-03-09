@@ -1,0 +1,13 @@
+h1{
+    width: 50%;
+    float: left;
+    text-align: center;
+    position: relative;
+  }
+  
+  img{
+    width:30%;
+    float: right;
+    position: relative;
+  }
+  
